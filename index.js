@@ -25,7 +25,7 @@ require("./server/routes")(app, passport);
 require("./init/passport")(passport);
 
 //MongoDB
-var mongoUri = 'mongodb://localhost/db_questionnaire';
+var mongoUri = 'mongodb://heroku_5n17zk91:1d7av4mq68cu7heg09v3nc5otl@ds147821.mlab.com:47821/heroku_5n17zk91';
 
 //Sample survey to DB
 start.updateQuestions();
