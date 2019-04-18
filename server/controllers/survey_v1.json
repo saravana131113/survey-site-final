@@ -1,0 +1,29 @@
+{
+  "z_fashion_v1": [
+    {
+      "number": 1,
+      "type": "radio",
+      "text": "How often do you shop online?",
+      "possible_answers": [
+        "Very often",
+        "Quite often",
+        "Moderately often",
+        "Slightly often",
+        "Rare"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "multi",
+      "text": "What do you look for when you buy online?",
+      "possible_answers": [
+        "Cheap price",
+        "Quality",
+        "Quantity",
+        "Brand name",
+        "Trend",
+        "Rarity"
+      ]
+    }
+  ]
+}
